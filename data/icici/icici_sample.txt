@@ -1,0 +1,22 @@
+# Mock ICICI Bank Statement PDF Content
+# This is a text representation of what would be extracted from a PDF
+
+ICICI BANK LIMITED
+Account Statement
+
+Account Number: 1234567890
+Account Holder: JOHN DOE
+Statement Period: 01/01/2024 to 31/01/2024
+
+DATE        DESCRIPTION                    DEBIT      CREDIT     BALANCE
+01/01/2024  Opening Balance                           50000.00   50000.00
+02/01/2024  UPI-AMAZON PAY                1500.00               48500.00
+03/01/2024  SALARY CREDIT                            75000.00   123500.00
+05/01/2024  ATM WITHDRAWAL                2000.00               121500.00
+07/01/2024  ONLINE TRANSFER TO SAVINGS    5000.00               116500.00
+10/01/2024  INTEREST CREDIT                           125.50   116625.50
+15/01/2024  ELECTRICITY BILL              3200.00               113425.50
+20/01/2024  UPI-GROCERIES                  850.00               112575.50
+25/01/2024  DIVIDEND CREDIT                          2500.00   115075.50
+
+Closing Balance: 115075.50

@@ -1,0 +1,4 @@
+date,description,debit,credit,balance
+2024-01-01,Opening Balance,,10000.00,10000.00
+2024-01-02,Transaction 1,500.00,,9500.00
+2024-01-03,Transaction 2,,2000.00,11500.00
