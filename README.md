@@ -1,4 +1,5 @@
-##🤖 Agent-as-Coder: Bank Statement Parser Generator
+## **🤖 Agent-as-Coder: Bank Statement Parser Generator**
+
 
 An intelligent AI agent that **automatically creates custom parsers** for any bank statement PDF. Just give it a PDF, and it will generate working Python code that extracts your transaction data perfectly!
 
